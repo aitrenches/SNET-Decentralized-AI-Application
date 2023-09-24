@@ -8,6 +8,7 @@ For unix/macOS:
    - sudo apt-get install python3-venv
    - sudo python3 -m venv venv
    - source ./venv/bin/activate
+
 For Windows:
    - py -m pip install --user virtualenv
    - py -m venv venv
